@@ -1,3 +1,2 @@
 # Expense-Tracker
-For now only the front end work is kinda done
-Since, my skillset only includes HTML and CSS
+For now only the front end work is kinda done... since, my skillset only includes HTML and CSS
